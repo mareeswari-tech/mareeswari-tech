@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm A. Mareeswari
 
-<!--
-**mareeswari-tech/mareeswari-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Developer  
+🚀 Future Software Engineer  
+🌱 Currently learning programming & web development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about coding and technology  
+- Building my skills step by step  
+- Interested in Web & Software Development  
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript (Learning)
+- Java / Python (Beginner)
+- Git & GitHub  
+
+---
+
+## 📚 Currently Learning
+- Frontend Development  
+- Programming Fundamentals  
+- Git & GitHub workflow  
+
+---
+
+## 💻 Projects
+🔹 *Projects coming soon...*  
+(I am currently working on beginner-friendly projects 🚀)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareeswari-tech&show_icons=true)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/mareeswari-tech  
+
+---
+
+⭐ *Learning consistently and building my future with code*
