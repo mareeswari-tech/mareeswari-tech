@@ -14,8 +14,8 @@
 ---
 
 ## 🛠️ Skills
-- HTML, CSS, JavaScript (Learning)
-- Java / Python (Beginner)
+- HTML, CSS, JavaScript (Learning)  
+- Java / Python (Beginner)  
 - Git & GitHub  
 
 ---
@@ -28,8 +28,8 @@
 ---
 
 ## 💻 Projects
-🔹 *Projects coming soon...*  
-(I am currently working on beginner-friendly projects 🚀)
+🔹 Projects coming soon...  
+*(Currently working on beginner-friendly projects 🚀)*  
 
 ---
 
