@@ -15,10 +15,11 @@
 ---
 
 ### 💻 Featured Projects
-🔹 **Rock-Paper-Scissors CNN Classifier** — 97.58% accuracy using Deep Learning
+🔹 **Brain Tumor Detection** — 98% accuracy using MobileNetV2 (Deep Learning)
+🔹 **Rock-Paper-Scissors CNN Classifier** — 97.58% accuracy
 🔹 **TamilEdu Connect** — Digital learning platform for rural Tamil Nadu (SIH 2025)
 🔹 **IoT Real-Time Dashboard** — ESP32, MQTT, InfluxDB, Grafana
-🔹 **Brain Tumor Detection** — MRI-based classification using CNN
+🔹 **Student Performance Prediction** — ML model comparison (Gradient Boosting, XGBoost, Random Forest)
 
 ---
 
