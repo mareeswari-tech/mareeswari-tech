@@ -1,46 +1,26 @@
 ## 👋 Hi, I'm A. Mareeswari
 
-💻 Aspiring Developer  
-🚀 Future Software Engineer  
-🌱 Currently learning programming & web development  
+🎓 B.Tech AI & Data Science Student @ Sudharsan Engineering College
+🚀 Building end-to-end AI, ML & IoT solutions
+🏆 Participant — Smart India Hackathon 2025
 
 ---
 
-## 🚀 About Me
-- Passionate about coding and technology  
-- Building my skills step by step  
-- Interested in Web & Software Development  
+### 🛠️ Tech Stack
+**Languages:** Python | Java | SQL
+**ML/AI:** TensorFlow | Keras | Scikit-Learn | OpenCV | CNN | NLP
+**Full-Stack:** React.js | Node.js | MongoDB
+**Cloud & Tools:** AWS | Git | GitHub | Power BI
 
 ---
 
-## 🛠️ Skills
-- HTML, CSS, JavaScript (Learning)  
-- Java / Python (Beginner)  
-- Git & GitHub  
+### 💻 Featured Projects
+🔹 **Rock-Paper-Scissors CNN Classifier** — 97.58% accuracy using Deep Learning
+🔹 **TamilEdu Connect** — Digital learning platform for rural Tamil Nadu (SIH 2025)
+🔹 **IoT Real-Time Dashboard** — ESP32, MQTT, InfluxDB, Grafana
+🔹 **Brain Tumor Detection** — MRI-based classification using CNN
 
 ---
 
-## 📚 Currently Learning
-- Frontend Development  
-- Programming Fundamentals  
-- Git & GitHub workflow  
-
----
-
-## 💻 Projects
-🔹 Projects coming soon...  
-*(Currently working on beginner-friendly projects 🚀)*  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mareeswari-tech&show_icons=true)
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/mareeswari-tech  
-
----
-
-⭐ *Learning consistently and building my future with code*
+### 📫 Connect with Me
+🔗 LinkedIn: [linkedin.com/in/amareeswari](https://linkedin.com/in/amareeswari)
